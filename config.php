@@ -1,0 +1,1 @@
+<?php $conn = mysqli_connect('localhost','root','','ujikom') or die(mysqli_error($conn)); ?>
